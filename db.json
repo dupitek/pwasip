@@ -1,0 +1,24 @@
+{
+"products": [
+{"id":1,"name":"Indian star tortoise","category":"Puce"},
+{"id":2,"name":"Tortoise, asian foreset","category":"Goldenrod"},
+{"id":3,"name":"Galapagos penguin","category":"Mauv"},
+{"id":4,"name":"Eurasian hoopoe","category":"Teal"},
+{"id":5,"name":"Goose, cereopsis","category":"Purple"},
+{"id":6,"name":"Southern boubou","category":"Maroon"},
+{"id":7,"name":"Porcupine, african","category":"Goldenrod"},
+{"id":8,"name":"Royal tern","category":"Mauv"},
+{"id":9,"name":"Coqui partridge","category":"Yellow"},
+{"id":10,"name":"Masked booby","category":"Goldenrod"},
+{"id":11,"name":"White-faced tree rat","category":"Teal"},
+{"id":12,"name":"Eastern box turtle","category":"Blue"},
+{"id":13,"name":"Mouse, four-striped grass","category":"Fuscia"},
+{"id":14,"name":"Slender loris","category":"Violet"},
+{"id":15,"name":"Otter, giant","category":"Turquoise"},
+{"id":16,"name":"African buffalo","category":"Aquamarine"},
+{"id":17,"name":"Boa, malagasy ground","category":"Teal"},
+{"id":18,"name":"Slender-billed cockatoo","category":"Puce"},
+{"id":19,"name":"Barasingha deer","category":"Turquoise"},
+{"id":20,"name":"Eagle, bateleur","category":"Goldenrod"}
+]
+}
